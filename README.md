@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+
+# Screenshots
+
+<img width="1440" alt="Screenshot 2023-05-26 at 2 17 56 PM" src="https://github.com/AnkithSharmaji/Todolist-ReactApp.github.io/assets/86291521/e6fdbcc2-5c66-4cd5-b6b2-8d1c4bb92fff">
+<img width="1440" alt="Screenshot 2023-05-26 at 2 17 45 PM" src="https://github.com/AnkithSharmaji/Todolist-ReactApp.github.io/assets/86291521/4417b8e0-a5af-4f7d-8ee2-0e3efb7c19a1">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
